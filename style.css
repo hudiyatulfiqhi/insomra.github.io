@@ -267,7 +267,8 @@ body {
   padding: 50px 0;
 }
 .products h2 {
-  font-size: 2em;
+  font-size: 1em;
+  margin-top: 30px;
   margin-bottom: 30px;
 }
 .product-grid {
@@ -519,3 +520,4 @@ body {
     font-size: 11px;
   }
 }
+
