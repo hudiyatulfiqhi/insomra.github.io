@@ -268,7 +268,7 @@ body {
 }
 .products h2 {
   font-size: 1em;
-  margin-top: 30px;
+  margin-top: 50px;
   margin-bottom: 30px;
 }
 .product-grid {
@@ -520,4 +520,5 @@ body {
     font-size: 11px;
   }
 }
+
 
